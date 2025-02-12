@@ -1,1 +1,42 @@
+.bg-info {
+    background-color: #F4B886 !important;
+}
 
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #FCDFA6;
+}
+
+.btn-info {
+    color: #AAC0AA;
+    background-color: #A18276;
+    border-color: #AAC0AA;
+}
+
+.btn-primary {
+    color: #FCDFA6;
+    font-size: 150%;
+    background-color: #FCDFA6;
+    border-color: #FCDFA6;
+    border-width: thick;
+}
+
+body {
+    background-color: #FCDFA6;
+}
+
+.navbar-brand {
+    font-family: "Jost", serif;
+    font-size: 2.25rem;
+}
+
+.btn-custom {
+    color: black;
+    background-color: #AAC0AA;
+    border-color: #FCDFA6;/
+}
+
+.btn-custom:hover {
+    color: black;
+    background-color: #AAC0AA;
+    border-color: #F4B886;
+}
